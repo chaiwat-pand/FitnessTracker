@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.98216ef2.chunk.css",
+    "main.js": "/static/js/main.e6e1f175.chunk.js",
+    "main.js.map": "/static/js/main.e6e1f175.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.50361540.js",
+    "runtime-main.js.map": "/static/js/runtime-main.50361540.js.map",
+    "static/css/2.150d169a.chunk.css": "/static/css/2.150d169a.chunk.css",
+    "static/js/2.0aa977f6.chunk.js": "/static/js/2.0aa977f6.chunk.js",
+    "static/js/2.0aa977f6.chunk.js.map": "/static/js/2.0aa977f6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.98216ef2.chunk.css.map": "/static/css/main.98216ef2.chunk.css.map",
+    "static/js/2.0aa977f6.chunk.js.LICENSE.txt": "/static/js/2.0aa977f6.chunk.js.LICENSE.txt",
+    "static/media/FE-logo.789455b6.jpg": "/static/media/FE-logo.789455b6.jpg",
+    "static/media/batminton.6253b6c2.png": "/static/media/batminton.6253b6c2.png",
+    "static/media/bike.6ba748c7.png": "/static/media/bike.6ba748c7.png",
+    "static/media/jump.92bf3b97.png": "/static/media/jump.92bf3b97.png",
+    "static/media/running.b6a1aa7e.png": "/static/media/running.b6a1aa7e.png",
+    "static/media/swimming.c8d2f0e5.png": "/static/media/swimming.c8d2f0e5.png",
+    "static/media/walk.68718d1a.png": "/static/media/walk.68718d1a.png",
+    "static/media/weight.cef99b8f.png": "/static/media/weight.cef99b8f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50361540.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.0aa977f6.chunk.js",
+    "static/css/main.98216ef2.chunk.css",
+    "static/js/main.e6e1f175.chunk.js"
+  ]
+}
